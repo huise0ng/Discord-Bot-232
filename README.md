@@ -60,7 +60,7 @@ json 파일을 사용해 봇을 실행시켰을 때 feed.json파일이 없다면
 
 이렇게 feeds.json에 등록되었다. 여기서 lastlink를 넣은 이유는 10분 후 전에 확인했던 글과 똑같은지 다른지를 비교해서 똑같다면 이삼이는 아무 반응이 없고, 다르다면 글을 올려줍니다.
 
-![Untitled (1)](https://github.com/huise0ng/Discord-Bot-YeeSamee/assets/128358820/672369c5-4c0e-4fea-a9fb-b63a720e1d84)
+![Untitled (6)](https://github.com/huise0ng/Discord-Bot-YeeSamee/assets/128358820/1b223ffe-7abb-43e4-afa3-adbf55b7b031)
 
 [여기서 테스트 1은 벨로그 글 제목입니다.]
 
