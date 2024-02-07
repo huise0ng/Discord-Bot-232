@@ -81,7 +81,7 @@ if (message.content.startsWith('!yeesamee')) {
         }. 
 ```
 
-이삼이를 처음 사용하는 사용자를 위해서 !yeesamee라고만 치팅에 쳤을 경우
+이삼이를 처음 사용하는 사용자를 위해서 !yeesamee라고만 채팅에 쳤을 경우
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/88950e89-cb70-43d2-8f59-096cfc4da892/79077c71-9c1e-4570-83d8-c8d46fb3c3d5/Untitled.png)
 
