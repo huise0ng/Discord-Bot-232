@@ -60,7 +60,7 @@ json 파일을 사용해 봇을 실행시켰을 때 feed.json파일이 없다면
 
 이렇게 feeds.json에 등록되었다. 여기서 lastlink를 넣은 이유는 10분 후 전에 확인했던 글과 똑같은지 다른지를 비교해서 똑같다면 이삼이는 아무 반응이 없고, 다르다면 글을 올려줍니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/88950e89-cb70-43d2-8f59-096cfc4da892/9134e361-9256-42ac-9825-db0d11cb64b8/Untitled.png)
+![Untitled (1)](https://github.com/huise0ng/Discord-Bot-YeeSamee/assets/128358820/672369c5-4c0e-4fea-a9fb-b63a720e1d84)
 
 [여기서 테스트 1은 벨로그 글 제목입니다.]
 
@@ -83,7 +83,8 @@ if (message.content.startsWith('!yeesamee')) {
 
 이삼이를 처음 사용하는 사용자를 위해서 !yeesamee라고만 채팅에 쳤을 경우
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/88950e89-cb70-43d2-8f59-096cfc4da892/79077c71-9c1e-4570-83d8-c8d46fb3c3d5/Untitled.png)
+![Untitled (2)](https://github.com/huise0ng/Discord-Bot-YeeSamee/assets/128358820/74ff576b-e1c1-45ae-8f11-cb9e4a15c9a0)
+
 
 사용법에 대해서 소개합니다.
 
